@@ -1,5 +1,5 @@
 predawn
 Material Theme
-brackethigjlighter
-sidebarenhancements
+bracket highlighter
+sidebar enhancements
 Anaconda
