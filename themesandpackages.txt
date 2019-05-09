@@ -1,5 +1,7 @@
 Anaconda
 SublimeCodeIntel
+SublimeLinter
+SublimeLinter - Pylint
 
 
 
@@ -7,4 +9,5 @@ predawn
 Material Theme
 bracket highlighter
 sidebar enhancements
+Emmet
 
