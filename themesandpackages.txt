@@ -10,5 +10,3 @@ Material Theme
 bracket highlighter
 sidebar enhancements
 Emmet
-TestPackage
-
